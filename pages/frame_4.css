@@ -1,0 +1,65 @@
+.frame-4 .logo-lembaga-wakaf-uang-unisia-tulisan-yayasan-21 {
+  background: url('../assets/images/logo_lembaga_wakaf_uang_unisia_tulisan_yayasan_21.png') 50% / cover no-repeat;
+  margin: 0 0 104px 5px;
+  width: 41px;
+  height: 64px;
+}
+.frame-4 .email {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 15px;
+  color: #404040;
+}
+.frame-4 .container-2 {
+  background: rgba(35, 140, 135, 0.5);
+  position: relative;
+  margin-bottom: 9px;
+  display: flex;
+  padding: 17px 0 16px 2.5px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.frame-4 .kata-sandi {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 15px;
+  color: #404040;
+}
+.frame-4 .container-1 {
+  background: rgba(35, 140, 135, 0.5);
+  position: relative;
+  margin-bottom: 119px;
+  display: flex;
+  padding: 17px 1px 16px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.frame-4 .masuk {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.frame-4 .container {
+  border-radius: 9px;
+  background: #FFCF48;
+  position: relative;
+  display: flex;
+  padding: 17px 0 16px 1.7px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.frame-4 {
+  border-radius: 20px;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 27px 15px 26px 16px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,129 @@
+.frame-3 .logo-lembaga-wakaf-uang-unisia-tulisan-yayasan-21 {
+  background: url('../assets/images/logo_lembaga_wakaf_uang_unisia_tulisan_yayasan_21.png') 50% / cover no-repeat;
+  margin: 0 0 26px 5px;
+  width: 41px;
+  height: 64px;
+}
+.frame-3 .nama {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 15px;
+  color: #404040;
+}
+.frame-3 .nama-1 {
+  position: absolute;
+  left: 50%;
+  bottom: 16px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 15px;
+  color: #404040;
+}
+.frame-3 .container {
+  background: rgba(35, 140, 135, 0.5);
+  position: relative;
+  margin-bottom: 9px;
+  display: flex;
+  padding: 17px 1.5px 16px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.frame-3 .email {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 15px;
+  color: #404040;
+}
+.frame-3 .container-5 {
+  background: rgba(35, 140, 135, 0.5);
+  position: relative;
+  margin-bottom: 9px;
+  display: flex;
+  padding: 17px 1.5px 16px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.frame-3 .nomer-telepon {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 15px;
+  color: #404040;
+}
+.frame-3 .container-4 {
+  background: rgba(35, 140, 135, 0.5);
+  position: relative;
+  margin-bottom: 9px;
+  display: flex;
+  padding: 17px 0.6px 16px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.frame-3 .kata-sandi {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 15px;
+  color: #404040;
+}
+.frame-3 .container-3 {
+  background: rgba(35, 140, 135, 0.5);
+  position: relative;
+  margin-bottom: 9px;
+  display: flex;
+  padding: 17px 1px 16px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.frame-3 .konfirmasi-kata-sandi {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 15px;
+  color: #404040;
+}
+.frame-3 .container-2 {
+  background: rgba(35, 140, 135, 0.5);
+  position: relative;
+  margin-bottom: 17px;
+  display: flex;
+  padding: 17px 1.5px 16px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.frame-3 .daftar {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.frame-3 .container-1 {
+  border-radius: 9px;
+  background: #FFCF48;
+  position: relative;
+  display: flex;
+  padding: 17px 0.3px 16px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.frame-3 {
+  border-radius: 20px;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 27px 15px 26px 16px;
+  box-sizing: border-box;
+}

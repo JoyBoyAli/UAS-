@@ -1,0 +1,35 @@
+.frame-2 .profil {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 10px;
+  color: #FFFFFF;
+}
+.frame-2 .container-1 {
+  background: rgba(39, 142, 138, 0.79);
+  position: relative;
+  display: flex;
+  padding: 16px 0 19px 0.7px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.frame-2 .imbal-hasil-uang-wakaf {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 10px;
+  color: #FFFFFF;
+}
+.frame-2 .container {
+  background: #238C87;
+  position: relative;
+  display: flex;
+  padding: 18px 13.4px 17px 14px;
+  box-sizing: border-box;
+}
+.frame-2 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}

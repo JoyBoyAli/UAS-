@@ -1,0 +1,8 @@
+.home-apps .subtract {
+  width: 17.5px;
+  height: 16.3px;
+}
+.home-apps {
+  display: flex;
+  box-sizing: border-box;
+}

@@ -1,0 +1,710 @@
+.desktop-9 .berita {
+  margin: 14px 12px 1px 0;
+  display: inline-block;
+  width: 64px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 20px;
+  color: #278E8A;
+}
+.desktop-9 .berita-informasi {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 32px;
+  color: #000000;
+}
+.desktop-9 .container-23 {
+  margin-bottom: 52px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 795.4px;
+  box-sizing: border-box;
+}
+.desktop-9 .container {
+  background: url('../assets/images/image_2.png') 50% / cover no-repeat;
+  width: 394px;
+  height: 254px;
+}
+.desktop-9 .container-7 {
+  background: #278E8A;
+  position: relative;
+  display: flex;
+  padding: 19px 22px 20px 20px;
+  width: 436px;
+  height: 293px;
+  box-sizing: border-box;
+}
+.desktop-9 .container-2 {
+  background: url('../assets/images/image_4.png') 50% / cover no-repeat;
+  width: 381px;
+  height: 270px;
+}
+.desktop-9 .container-22 {
+  background: #F8D217;
+  position: relative;
+  display: flex;
+  padding: 12px 16px 11px 15px;
+  width: 412px;
+  height: 293px;
+  box-sizing: border-box;
+}
+.desktop-9 .container {
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 54px;
+  display: flex;
+  flex-direction: row;
+  width: 1288px;
+  box-sizing: border-box;
+}
+.desktop-9 .pilih-kategori {
+  margin-right: 15.4px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.desktop-9 .polygon-5 {
+  transform: rotate(-179.901deg);
+  margin: 11px 0 8px 0;
+  width: 12px;
+  height: 11px;
+}
+.desktop-9 .container-6 {
+  background: #238C87;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 15px 13.9px 15px 20px;
+  box-sizing: border-box;
+}
+.desktop-9 .search {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 300;
+  font-size: 20px;
+  color: #000000;
+}
+.desktop-9 .container-5 {
+  background: #F4F1F1;
+  position: relative;
+  display: flex;
+  padding: 15px 1px 15px 0;
+  width: 1017px;
+  box-sizing: border-box;
+}
+.desktop-9 .group-17 {
+  width: 31px;
+  height: 31px;
+}
+.desktop-9 .container-30 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 15px 0 14px 1px;
+  width: 76px;
+  height: 60px;
+  box-sizing: border-box;
+}
+.desktop-9 .container-32 {
+  margin-bottom: 124px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-9 .container-3 {
+  background: url('../assets/images/image_4.png') 50% / cover no-repeat;
+  width: 342px;
+  height: 179px;
+}
+.desktop-9 .container-5 {
+  background: url('../assets/images/image_2.png') 50% / cover no-repeat;
+  width: 342px;
+  height: 179px;
+}
+.desktop-9 .container-7 {
+  background: url('../assets/images/image_3.png') 50% / cover no-repeat;
+  width: 342px;
+  height: 179px;
+}
+.desktop-9 .container-18 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 131px;
+  width: 1288px;
+  box-sizing: border-box;
+}
+.desktop-9 .hafitalent-unisia {
+  margin-bottom: 6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.desktop-9 .hafitalent-unisia-merupakan-program-beasiswa-yang-dirancang-untuk-membantu-kawula-muda-penghafal-al-quranhafiz-bagi-masyarakat-umum-untuk-meringankan-biaya-pendidikan {
+  align-self: flex-start;
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.desktop-9 .container-4 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 17px 0 17px 15px;
+  width: 342px;
+  box-sizing: border-box;
+}
+.desktop-9 .unisia-pond {
+  margin-bottom: 6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.desktop-9 .unisia-pond-merupakan-program-sektor-rill-dengan-membuka-usaha-budidaya-ikan-untuk-membantu-masyarakat-dalam-memperoleh-kebutuhan-pangan-yang-bergizi {
+  align-self: flex-start;
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.desktop-9 .container-21 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 17px 0 41px 14px;
+  width: 342px;
+  box-sizing: border-box;
+}
+.desktop-9 .elwa-unisia {
+  margin-bottom: 6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.desktop-9 .elwa-unisia-merupakan-program-beasiswa-yang-dirancang-untuk-membantu-mahasiswa-universitas-islam-indonesia-yang-sedang-menempuh-tugas-akhir {
+  align-self: flex-start;
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.desktop-9 .container-10 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 17px 0 41px 15px;
+  width: 342px;
+  box-sizing: border-box;
+}
+.desktop-9 .container-12 {
+  margin-bottom: 47px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 131px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-9 .container-4 {
+  background: url('../assets/images/image_5.png') 50% / cover no-repeat;
+  width: 342px;
+  height: 179px;
+}
+.desktop-9 .container-6 {
+  background: url('../assets/images/image_6.png') 50% / cover no-repeat;
+  width: 342px;
+  height: 179px;
+}
+.desktop-9 .container-8 {
+  background: url('../assets/images/image.png') 50% / cover no-repeat;
+  width: 342px;
+  height: 179px;
+}
+.desktop-9 .container-26 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 131px;
+  width: 1288px;
+  box-sizing: border-box;
+}
+.desktop-9 .unisia-workspace {
+  margin-bottom: 6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.desktop-9 .unisia-workspace-merupakan-program-sektor-rill-yang-dirancang-dengan-membuka-usaha-penyediaan-ruang-kerja-yang-nyaman-sebagai-jendela-inspirasi-tempat-yangcozyuntuk-belajar-sekaligus-ruangmeeting {
+  align-self: flex-start;
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.desktop-9 .container-13 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 9px 0 11px 15px;
+  width: 342px;
+  box-sizing: border-box;
+}
+.desktop-9 .summa-unisia {
+  margin-bottom: 6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.desktop-9 .summa-unisia-merupakan-program-penyediaan-air-bersih-untuk-mengatasi-masalah-kekurangan-air {
+  align-self: flex-start;
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.desktop-9 .container-16 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 9px 0 107px 15px;
+  width: 342px;
+  box-sizing: border-box;
+}
+.desktop-9 .rulin-unisia {
+  margin-bottom: 6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.desktop-9 .rulin-unisia-merupakan-program-penyediaan-fasilitas-persalinan-bagi-keluarga-kurang-mampu {
+  align-self: flex-start;
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.desktop-9 .container-31 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 9px 0 107px 15px;
+  width: 342px;
+  box-sizing: border-box;
+}
+.desktop-9 .container-28 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 131px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-9 .container-8 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.desktop-9 .container-1 {
+  background: url('../assets/images/image_2.png') 50% / cover no-repeat;
+  width: 394px;
+  height: 254px;
+}
+.desktop-9 .container-3 {
+  background: #238C87;
+  position: absolute;
+  top: 322px;
+  right: 75px;
+  display: flex;
+  padding: 19px 23px 20px 24px;
+  width: 441px;
+  height: 293px;
+  box-sizing: border-box;
+}
+.desktop-9 .container-25 {
+  background: #FCFCFC;
+  position: relative;
+  display: flex;
+  padding: 231px 76px 337px 76px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-9 .logo-lembaga-wakaf-uang-unisia-hitam-putih-21 {
+  background: url('../assets/images/logo_lembaga_wakaf_uang_unisia_hitam_putih_2.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 101px;
+  top: 7px;
+  width: 93px;
+  height: 96px;
+}
+.desktop-9 .fitur {
+  margin-right: 15px;
+  width: 47px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.desktop-9 .hubungi-kami {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.desktop-9 .terdaftar-resmi-di {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.desktop-9 .container-2 {
+  margin: 0 128.1px 12px 128.1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-end;
+  width: 835.4px;
+  box-sizing: border-box;
+}
+.desktop-9 .jl-cik-di-tiro-no-1-terban-kec-gondokusuman-kota-yogyakarta-diy-55223 {
+  position: relative;
+  margin: 31px 36px 12px 0;
+  display: inline-block;
+  width: 232px;
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-9 .profil {
+  margin-bottom: 6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-9 .produk {
+  margin-bottom: 6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-9 .cara-berwakaf {
+  margin-bottom: 6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-9 .imbal-hasil-wakaf-uang {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-9 .container-24 {
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.desktop-9 .email-lwu-unisiagmail-com {
+  margin-bottom: 18px;
+  display: inline-block;
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-9 .telepon-6281390346688 {
+  align-self: flex-start;
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-9 .container-11 {
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.desktop-9 .nomor-surat-tanda-bukti-pendaftaran-nazhir-stbpn-3300250 {
+  position: relative;
+  margin-bottom: 7px;
+  display: inline-block;
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-9 .di-bawah-naungan {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.desktop-9 .container-9 {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.desktop-9 .container-20 {
+  margin-bottom: 4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1325.5px;
+  box-sizing: border-box;
+}
+.desktop-9 .logo-beserta-nama-untuk-website-01011 {
+  background: url('../assets/images/logo_beserta_nama_untuk_website_01011.png') 50% / cover no-repeat;
+  margin: 0 0 5px 873.5px;
+  width: 173px;
+  height: 36px;
+}
+.desktop-9 .nomor-01-kpts-ii-2020 {
+  margin-left: 880.2px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-9 .container-14 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1325.5px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-9 .images-removebg-preview-1 {
+  background: url('../assets/images/images_removebg_preview_1.png') 50% / cover no-repeat;
+  position: absolute;
+  top: 49px;
+  right: 254px;
+  width: 44px;
+  height: 44px;
+}
+.desktop-9 .container-29 {
+  background: #278E8A;
+  position: absolute;
+  right: -2px;
+  bottom: -7px;
+  display: flex;
+  padding: 19px 58.5px 7px 56px;
+  width: 1440px;
+  height: 252px;
+  box-sizing: border-box;
+}
+.desktop-9 .logo-lembaga-wakaf-uang-unisia-hitam-putih-2 {
+  background: url('../assets/images/logo_lembaga_wakaf_uang_unisia_hitam_putih_2.png') 50% / cover no-repeat;
+  width: 93px;
+  height: 96px;
+}
+.desktop-9 .home {
+  margin: 11px 21.8px 16px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.desktop-9 .produk-1 {
+  margin: 11px 20.4px 16px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.desktop-9 .event {
+  margin: 11px 21.9px 16px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.desktop-9 .berita-1 {
+  margin: 11px 19.4px 16px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.desktop-9 .laporan {
+  margin: 11px 15px 16px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.desktop-9 .tentang-kami {
+  margin: 11px 0 16px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.desktop-9 .login {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.desktop-9 .container-19 {
+  border-radius: 4px;
+  border: 1px solid #FFCF48;
+  background: #238C87;
+  position: relative;
+  display: flex;
+  padding: 11px 1.8px 16px 0;
+  width: 96px;
+  box-sizing: border-box;
+}
+.desktop-9 .container-17 {
+  margin: 29px 0 22px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 622px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-9 .container-15 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1220px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-9 .daftar {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 15px;
+  color: #212121;
+}
+.desktop-9 .container-1 {
+  border-radius: 9px;
+  background: #F8D217;
+  position: absolute;
+  right: 29px;
+  bottom: 28px;
+  display: flex;
+  padding: 11px 0.3px 16px 0;
+  width: 96px;
+  box-sizing: border-box;
+}
+.desktop-9 .container-27 {
+  background: #238C87;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  display: flex;
+  padding: 6px 116px 6px 104px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.desktop-9 {
+  background: rgba(39, 142, 138, 0.05);
+  display: flex;
+  padding: 0 0 75px 2px;
+  width: 1440px;
+  box-sizing: border-box;
+}

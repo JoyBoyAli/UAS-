@@ -1,0 +1,790 @@
+.desktop-6 .subtract {
+  width: 21.9px;
+  height: 20.3px;
+}
+.desktop-6 .home-apps {
+  margin: 29.3px 64.6px 46.3px 0;
+  display: flex;
+  width: 25px;
+  height: 25px;
+  box-sizing: border-box;
+}
+.desktop-6 .logo-lembaga-wakaf-uang-unisia-hitam-putih-2 {
+  background: url('../assets/images/logo_lembaga_wakaf_uang_unisia_hitam_putih_2.png') 50% / cover no-repeat;
+  width: 93px;
+  height: 96px;
+}
+.desktop-6 .container-8 {
+  display: flex;
+  flex-direction: row;
+  width: 179.4px;
+  box-sizing: border-box;
+}
+.desktop-6 .home {
+  margin-right: 9px;
+  width: 46px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.desktop-6 .produk-1 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.desktop-6 .event {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.desktop-6 .berita {
+  margin-right: 19.4px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.desktop-6 .laporan {
+  margin-right: 15px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.desktop-6 .tentang-kami {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.desktop-6 .container-25 {
+  margin: 11px 0 16px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 469.6px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-6 .login {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.desktop-6 .container-11 {
+  border-radius: 4px;
+  border: 1px solid #FFCF48;
+  background: #238C87;
+  position: relative;
+  display: flex;
+  padding: 11px 1.8px 16px 0;
+  width: 96px;
+  box-sizing: border-box;
+}
+.desktop-6 .container-36 {
+  margin: 29px 0 22px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 622px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-6 .container-4 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1306.4px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-6 .daftar {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 15px;
+  color: #212121;
+}
+.desktop-6 .container-24 {
+  border-radius: 9px;
+  background: #F8D217;
+  position: absolute;
+  right: 29px;
+  bottom: 28px;
+  display: flex;
+  padding: 11px 0.3px 16px 0;
+  width: 96px;
+  box-sizing: border-box;
+}
+.desktop-6 .container-5 {
+  background: #238C87;
+  position: relative;
+  margin-bottom: 73px;
+  display: flex;
+  padding: 6px 116px 6px 17.6px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.desktop-6 .qris-hanya-untuk-produk-wakaf-uang-permanen-wup {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.desktop-6 .container-16 {
+  border-radius: 6px;
+  background: rgba(248, 210, 23, 0.39);
+  position: relative;
+  margin: 16px 53px 6px 0;
+  display: flex;
+  padding: 17px 1px 17px 0;
+  width: 412px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-6 .scan-qris-lwu-unisia {
+  margin-bottom: 8px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 32px;
+  color: #000000;
+}
+.scan-qris-lwu-unisia {
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 1.333;
+}
+.desktop-6 .dan-dapatkan-kemudahan-dalam-berwakaf-uang-tanpa-ribet-atau-transfer-bank-anlembaga-wakaf-uang-unisia {
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.desktop-6 .container-20 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.desktop-6 .container-26 {
+  margin: 0 80px 15px 80px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-6 .polygon-3 {
+  margin: 194px 32px 190px 0;
+  width: 25px;
+  height: 22px;
+}
+.desktop-6 .image-1 {
+  background: url('../assets/images/image_1.png') 50% / cover no-repeat;
+  margin-right: 33px;
+  width: 412px;
+  height: 409px;
+}
+.desktop-6 .logo-bpd-syariah-20201024-x-248 {
+  background: url('../assets/images/logo_bpd_syariah_20201024_x_248.png') 50% / cover no-repeat;
+  margin: 0 13px 8px 0;
+  width: 134px;
+  height: 32px;
+}
+.desktop-6 .bank-bpd-diy-syariah {
+  margin: 11px 12.5px 5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.desktop-6 .wup {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.desktop-6 .container-2 {
+  border-radius: 4px;
+  background: #F8D217;
+  position: relative;
+  margin-top: 12px;
+  display: flex;
+  padding: 2px 10.5px 2px 9px;
+  box-sizing: border-box;
+}
+.desktop-6 .container-6 {
+  margin: 0 10px 9px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-6 .container {
+  margin: 3px 12px 1px 0;
+  display: inline-block;
+  width: 128px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-6 .salin {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.desktop-6 .container-12 {
+  border-radius: 4px;
+  background: #F8D217;
+  position: relative;
+  display: flex;
+  padding: 2px 8.7px 2px 8px;
+  box-sizing: border-box;
+}
+.desktop-6 .container-19 {
+  border-radius: 10px;
+  background: #238C87;
+  position: relative;
+  margin: 0 0 94px 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px 10px 11px 24px;
+  width: 382px;
+  box-sizing: border-box;
+}
+.desktop-6 .logo-bpd-syariah-20201024-x-2481 {
+  background: url('../assets/images/logo_bpd_syariah_20201024_x_248.png') 50% / cover no-repeat;
+  margin: 0 13px 8px 0;
+  width: 134px;
+  height: 32px;
+}
+.desktop-6 .bank-bpd-diy-syariah-1 {
+  margin: 11px 12.5px 5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.desktop-6 .wup-1 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.desktop-6 .container-22 {
+  border-radius: 4px;
+  background: #F8D217;
+  position: relative;
+  margin-top: 12px;
+  display: flex;
+  padding: 2px 10.5px 2px 9px;
+  box-sizing: border-box;
+}
+.desktop-6 .container-34 {
+  margin: 0 10px 9px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-6 .container-1 {
+  margin: 3px 12px 1px 0;
+  display: inline-block;
+  width: 128px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-6 .salin-1 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.desktop-6 .container-31 {
+  border-radius: 4px;
+  background: #F8D217;
+  position: relative;
+  display: flex;
+  padding: 2px 8.7px 2px 8px;
+  box-sizing: border-box;
+}
+.desktop-6 .container-37 {
+  border-radius: 10px;
+  background: #238C87;
+  position: relative;
+  margin-left: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px 10px 11px 24px;
+  width: 382px;
+  box-sizing: border-box;
+}
+.desktop-6 .container-39 {
+  margin: 65px 16px 54px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.desktop-6 .bank-syariah-indonesia-1 {
+  background: url('../assets/images/bank_syariah_indonesia.png') 50% / cover no-repeat;
+  margin: 0 10px 3px 0;
+  width: 114px;
+  height: 32px;
+}
+.desktop-6 .bank-syariah-indonesia {
+  margin-top: 11px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.desktop-6 .container-18 {
+  margin-bottom: 5px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.desktop-6 .wup-2 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.desktop-6 .container-38 {
+  border-radius: 4px;
+  background: #F8D217;
+  position: relative;
+  margin-top: 12px;
+  display: flex;
+  padding: 2px 10.5px 2px 9px;
+  box-sizing: border-box;
+}
+.desktop-6 .container-35 {
+  margin: 0 16px 9px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 424px;
+  box-sizing: border-box;
+}
+.desktop-6 .container-2 {
+  margin: 3px 12px 1px 0;
+  display: inline-block;
+  width: 128px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-6 .salin-2 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.desktop-6 .container-27 {
+  border-radius: 4px;
+  background: #F8D217;
+  position: relative;
+  display: flex;
+  padding: 2px 8.7px 2px 8px;
+  box-sizing: border-box;
+}
+.desktop-6 .container-10 {
+  border-radius: 10px;
+  background: #238C87;
+  position: relative;
+  margin: 0 0 96px 34px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px 16px 11px 24px;
+  width: 406px;
+  box-sizing: border-box;
+}
+.desktop-6 .logo-banksyariahuii-3 {
+  background: url('../assets/images/logo_banksyariahuii_3.png') 50% / cover no-repeat;
+  margin: 0 19px 8px 0;
+  width: 105px;
+  height: 30px;
+}
+.desktop-6 .bprs-unisia-insan-indonesia {
+  margin: 9px 13.8px 5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.desktop-6 .wup-3 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.desktop-6 .container-23 {
+  border-radius: 4px;
+  background: #F8D217;
+  position: relative;
+  margin-top: 10px;
+  display: flex;
+  padding: 2px 10.5px 2px 9px;
+  box-sizing: border-box;
+}
+.desktop-6 .container-28 {
+  margin: 0 16px 9px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-6 .container-3 {
+  margin: 3px 12px 1px 0;
+  display: inline-block;
+  width: 128px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-6 .salin-3 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.desktop-6 .container-15 {
+  border-radius: 4px;
+  background: #F8D217;
+  position: relative;
+  display: flex;
+  padding: 2px 8.7px 2px 8px;
+  box-sizing: border-box;
+}
+.desktop-6 .container-7 {
+  border-radius: 10px;
+  background: #238C87;
+  position: relative;
+  margin-left: 34px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px 16px 11px 24px;
+  width: 406px;
+  box-sizing: border-box;
+}
+.desktop-6 .container-14 {
+  margin: 65px 17px 54px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.desktop-6 .polygon-4 {
+  margin: 194px 0 190px 0;
+  width: 25px;
+  height: 22px;
+}
+.desktop-6 .container-1 {
+  margin: 0 18px 0 26px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-6 .container-32 {
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 192px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 313px;
+  box-sizing: border-box;
+}
+.desktop-6 .wakaf-melalui-uang-wmu {
+  margin: 0 13.7px 21px 14px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.desktop-6 .wakif-menyerahkan-wakaf-uang-untuk-selamanyaminimal-nominal-wakaf-uang-rp-10000-yang-akan-disalurkan-untuk-rumah-cendekia-qurani-unisia {
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.wakif-menyerahkan-wakaf-uang-untuk-selamanyaminimal-nominal-wakaf-uang-rp-10000-yang-akan-disalurkan-untuk-rumah-cendekia-qurani-unisia-sub1 {
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.desktop-6 .container-3 {
+  margin: 376px 0 499px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.desktop-6 .container-17 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.desktop-6 .images-removebg-preview-1 {
+  background: url('../assets/images/images_removebg_preview_1.png') 50% / cover no-repeat;
+  position: absolute;
+  top: 43px;
+  right: 254px;
+  width: 44px;
+  height: 44px;
+}
+.desktop-6 .logo-lembaga-wakaf-uang-unisia-hitam-putih-21 {
+  background: url('../assets/images/logo_lembaga_wakaf_uang_unisia_hitam_putih_2.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 45px;
+  top: 0px;
+  width: 93px;
+  height: 96px;
+}
+.desktop-6 .fitur {
+  margin-right: 15px;
+  width: 47px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.desktop-6 .hubungi-kami {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.desktop-6 .terdaftar-resmi-di {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.desktop-6 .container-30 {
+  margin: 0 128.1px 12px 128.1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-end;
+  width: 835.4px;
+  box-sizing: border-box;
+}
+.desktop-6 .jl-cik-di-tiro-no-1-terban-kec-gondokusuman-kota-yogyakarta-diy-55223 {
+  position: relative;
+  margin: 31px 36px 12px 0;
+  display: inline-block;
+  width: 232px;
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-6 .profil {
+  margin-bottom: 6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-6 .produk {
+  margin-bottom: 6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-6 .cara-berwakaf {
+  margin-bottom: 6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-6 .imbal-hasil-wakaf-uang {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-6 .container {
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.desktop-6 .email-lwu-unisiagmail-com {
+  margin-bottom: 18px;
+  display: inline-block;
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-6 .telepon-6281390346688 {
+  align-self: flex-start;
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-6 .container-13 {
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.desktop-6 .nomor-surat-tanda-bukti-pendaftaran-nazhir-stbpn-3300250 {
+  margin-bottom: 7px;
+  display: inline-block;
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-6 .di-bawah-naungan {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.desktop-6 .container-29 {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.desktop-6 .container-9 {
+  margin-bottom: 4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1325.5px;
+  box-sizing: border-box;
+}
+.desktop-6 .logo-beserta-nama-untuk-website-01011 {
+  background: url('../assets/images/logo_beserta_nama_untuk_website_01011.png') 50% / cover no-repeat;
+  margin: 0 0 5px 873.5px;
+  width: 173px;
+  height: 36px;
+}
+.desktop-6 .nomor-01-kpts-ii-2020 {
+  margin-left: 880.2px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-6 .container-21 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1325.5px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-6 .group-15 {
+  position: relative;
+  display: flex;
+  padding-top: 12px;
+  width: 1329px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-6 .container-33 {
+  background: #278E8A;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  display: flex;
+  padding: 7px 58.5px 7px 56px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.desktop-6 {
+  display: flex;
+  padding-bottom: 2px;
+  width: 1440px;
+  box-sizing: border-box;
+}

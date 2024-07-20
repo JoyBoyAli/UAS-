@@ -1,0 +1,510 @@
+.desktop-5 .logo-lembaga-wakaf-uang-unisia-hitam-putih-2 {
+  background: url('../assets/images/logo_lembaga_wakaf_uang_unisia_hitam_putih_2.png') 50% / cover no-repeat;
+  width: 93px;
+  height: 96px;
+}
+.desktop-5 .home {
+  margin-right: 9px;
+  width: 46px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.desktop-5 .produk-2 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.desktop-5 .event {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.desktop-5 .berita {
+  margin-right: 19.4px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.desktop-5 .laporan {
+  margin-right: 15px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.desktop-5 .tentang-kami {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.desktop-5 .container {
+  margin: 11px 0 16px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 469.6px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-5 .login {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.desktop-5 .container-6 {
+  border-radius: 4px;
+  border: 1px solid #FFCF48;
+  background: #238C87;
+  position: relative;
+  display: flex;
+  padding: 11px 1.8px 16px 0;
+  width: 96px;
+  box-sizing: border-box;
+}
+.desktop-5 .container-2 {
+  margin: 29px 0 22px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 622px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-5 .container-15 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1220px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-5 .daftar {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 15px;
+  color: #212121;
+}
+.desktop-5 .container-10 {
+  border-radius: 9px;
+  background: #F8D217;
+  position: absolute;
+  right: 29px;
+  bottom: 28px;
+  display: flex;
+  padding: 11px 0.3px 16px 0;
+  width: 96px;
+  box-sizing: border-box;
+}
+.desktop-5 .container-16 {
+  background: #238C87;
+  position: relative;
+  margin-bottom: 68px;
+  display: flex;
+  padding: 6px 116px 6px 104px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.desktop-5 .produk {
+  margin: 0 78px 24px 78px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 20px;
+  color: #278E8A;
+}
+.desktop-5 .pilihan-produk-wakaf-uang {
+  margin: 0 78px 75px 78px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 32px;
+  color: #000000;
+}
+.pilihan-produk-wakaf-uang {
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 1.333;
+}
+.desktop-5 .rectangle-14 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 16px;
+  background: #FFFFFF;
+  position: relative;
+  width: 146px;
+  height: 146px;
+}
+.desktop-5 .rectangle-15 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 16px;
+  background: #FFFFFF;
+  position: relative;
+  width: 146px;
+  height: 146px;
+}
+.desktop-5 .rectangle-16 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 16px;
+  background: #FFFFFF;
+  position: relative;
+  width: 146px;
+  height: 146px;
+}
+.desktop-5 .container-4 {
+  margin: 0 80px 21px 77px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1109px;
+  box-sizing: border-box;
+}
+.desktop-5 .wakaf-uang-permanen-wup {
+  margin-right: 15px;
+  width: 310px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 20px;
+  color: #000000;
+}
+.desktop-5 .wakaf-uang-temporer-wut {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.desktop-5 .wakaf-melalui-uang-wmu {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.desktop-5 .container-13 {
+  margin: 0 13.7px 21px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1252.3px;
+  box-sizing: border-box;
+}
+.desktop-5 .wakif-menyerahkan-uang-untuk-selamanyatanpa-minimal-nominal-wakaf-uang-yang-akan-disalurkan-untuk-pengembangan-pendidikan-usaha-dan-kemaslahatan-umat {
+  margin-right: 116.4px;
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.desktop-5 .wakif-menyerahkan-wakaf-uang-yang-dapat-ditarik-kembali-sesuai-yang-telah-ditentukanminimal-nominal-wakaf-uang-rp-1000000-dengan-jangka-waktu-minimal-1-tahun-yang-akan-disalurkan-untuk-pengembangan-pendidikan-usaha-dan-kemaslahatan-umat {
+  margin-right: 97.6px;
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.wakif-menyerahkan-wakaf-uang-yang-dapat-ditarik-kembali-sesuai-yang-telah-ditentukanminimal-nominal-wakaf-uang-rp-1000000-dengan-jangka-waktu-minimal-1-tahun-yang-akan-disalurkan-untuk-pengembangan-pendidikan-usaha-dan-kemaslahatan-umat-sub1 {
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.desktop-5 .wakif-menyerahkan-wakaf-uang-untuk-selamanyaminimal-nominal-wakaf-uang-rp-10000-yang-akan-disalurkan-untuk-rumah-cendekia-qurani-unisia {
+  margin-bottom: 24px;
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.wakif-menyerahkan-wakaf-uang-untuk-selamanyaminimal-nominal-wakaf-uang-rp-10000-yang-akan-disalurkan-untuk-rumah-cendekia-qurani-unisia-sub1 {
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.desktop-5 .container-5 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-5 .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.desktop-5 .lwu-permanen-1 {
+  background: url('../assets/images/lwu_permanen_1.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 6px;
+  top: 0px;
+  width: 288px;
+  height: 217px;
+}
+.desktop-5 .lwu-temporer-21 {
+  background: url('../assets/images/lwu_temporer_21.png') 50% / cover no-repeat;
+  position: absolute;
+  top: 40px;
+  right: 513px;
+  width: 199px;
+  height: 144px;
+}
+.desktop-5 .lwu-wmu-icon-1 {
+  background: url('../assets/images/lwu_wmu_icon_1.png') 50% / cover no-repeat;
+  position: absolute;
+  top: 22px;
+  right: 71px;
+  width: 167px;
+  height: 179px;
+}
+.desktop-5 .group-16 {
+  position: relative;
+  margin: 0 88px 0 86px;
+  display: flex;
+  padding-top: 28px;
+  box-sizing: border-box;
+}
+.desktop-5 .container-7 {
+  background: #FEFEFE;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 309px;
+  box-sizing: border-box;
+}
+.desktop-5 .images-removebg-preview-1 {
+  background: url('../assets/images/images_removebg_preview_1.png') 50% / cover no-repeat;
+  position: absolute;
+  top: 43px;
+  right: 255px;
+  width: 44px;
+  height: 44px;
+}
+.desktop-5 .logo-lembaga-wakaf-uang-unisia-hitam-putih-21 {
+  background: url('../assets/images/logo_lembaga_wakaf_uang_unisia_hitam_putih_2.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 45px;
+  top: 0px;
+  width: 93px;
+  height: 96px;
+}
+.desktop-5 .fitur {
+  margin-right: 15px;
+  width: 47px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.desktop-5 .hubungi-kami {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.desktop-5 .terdaftar-resmi-di {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.desktop-5 .container-11 {
+  margin: 0 128.1px 12px 128.1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-end;
+  width: 835.4px;
+  box-sizing: border-box;
+}
+.desktop-5 .jl-cik-di-tiro-no-1-terban-kec-gondokusuman-kota-yogyakarta-diy-55223 {
+  position: relative;
+  margin: 31px 36px 12px 0;
+  display: inline-block;
+  width: 232px;
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-5 .profil {
+  margin-bottom: 6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-5 .produk-1 {
+  margin-bottom: 6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-5 .cara-berwakaf {
+  margin-bottom: 6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-5 .imbal-hasil-wakaf-uang {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-5 .container-9 {
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.desktop-5 .email-lwu-unisiagmail-com {
+  margin-bottom: 18px;
+  display: inline-block;
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-5 .telepon-6281390346688 {
+  align-self: flex-start;
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-5 .container-14 {
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.desktop-5 .nomor-surat-tanda-bukti-pendaftaran-nazhir-stbpn-3300250 {
+  margin-bottom: 7px;
+  display: inline-block;
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-5 .di-bawah-naungan {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.desktop-5 .container-12 {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.desktop-5 .container-3 {
+  margin-bottom: 4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1325.5px;
+  box-sizing: border-box;
+}
+.desktop-5 .logo-beserta-nama-untuk-website-01011 {
+  background: url('../assets/images/logo_beserta_nama_untuk_website_01011.png') 50% / cover no-repeat;
+  margin: 0 0 5px 873.5px;
+  width: 173px;
+  height: 36px;
+}
+.desktop-5 .nomor-01-kpts-ii-2020 {
+  margin-left: 880.2px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-5 .container-17 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1325.5px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-5 .group-12 {
+  position: relative;
+  display: flex;
+  padding-top: 12px;
+  width: 1329px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-5 .container-8 {
+  background: #278E8A;
+  position: absolute;
+  right: -1px;
+  bottom: 0px;
+  display: flex;
+  padding: 7px 59.5px 7px 55px;
+  width: 1440px;
+  height: 252px;
+  box-sizing: border-box;
+}
+.desktop-5 {
+  background: rgba(39, 142, 138, 0.05);
+  display: flex;
+  padding-bottom: 2px;
+  width: 1440px;
+  box-sizing: border-box;
+}
